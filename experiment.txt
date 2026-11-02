@@ -1,0 +1,8 @@
+GitHub Practical Experiment
+
+This experiment demonstrates:
+1. Repository creation
+2. Branching
+3. Merging
+4. Pull request handling
+5. Issue tracking
